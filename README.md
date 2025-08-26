@@ -55,6 +55,8 @@ A homepage apresenta:
 
 ##  Visualizar o Projeto
 
+![Elith-Photo(assets/img-site.png)
+
 Acesse o site hospedado no GitHub Pages através deste link:
 
 [Elit Photo — Portfolio Online](https://cristalfigueiredoo.github.io/Site-Elit-Photo/)
