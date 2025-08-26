@@ -55,7 +55,7 @@ A homepage apresenta:
 
 ##  Visualizar o Projeto
 
-![Elith-Photo(Imagens/img-site.png)
+![Elith-Photo](Imagens/img-site.png)
 
 Acesse o site hospedado no GitHub Pages através deste link:
 
